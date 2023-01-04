@@ -41,3 +41,11 @@
 .rakeTasks
 /lib/tasks/data_loader/dump.json
 .DS_Store
+.vscode/
+*.lock
+!yarn.lock
+*.log
+out/
+dist/
+coverage/
+.eslintcache
